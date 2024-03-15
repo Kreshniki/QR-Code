@@ -1,0 +1,46 @@
+
+body {
+    
+    background-color: #d5e1ef;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+
+  
+  img {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+    border-radius: 12px;
+  }
+  
+  .container {
+    width: 290px;
+    height: 467px;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: white;
+   
+  }
+  
+ h2 {
+    font-weight:bolder;
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: 'red hat' , sans-serif;
+    letter-spacing: 0.1px;
+
+
+  }
+  .container p {
+
+    text-align: center;
+    margin: 15px 10px;
+    font-family: 'red hat' , sans-serif;
+    color: grey;
+  }
+  
